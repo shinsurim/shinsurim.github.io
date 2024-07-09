@@ -1,5 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Blog</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 09 Jul 2024 13:54:21 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 09 Jul 2024 13:54:20 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[모각코 1차시]]></title><description><![CDATA[ 
- ]]></description><link>2024-하계-모각코\surim\모각코-1차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 1차시.md</guid><pubDate>Tue, 09 Jul 2024 12:16:44 GMT</pubDate></item><item><title><![CDATA[모각표 목표]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Blog</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 09 Jul 2024 14:04:14 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 09 Jul 2024 14:04:13 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[모각코 목표]]></title><description><![CDATA[ 
  <br> 다이브 메인 페이지 수정 시도하기<br>
 <br>페이지 코드 이해하기
 <br> 다이브 대회 소개 페이지 제작 배우고 프로그램 제작 시작하기<br>
@@ -9,7 +8,8 @@
 <br>주피터 웹 화면 관련 설정
 <br>다이브 온라인 저지 페이지 구축 노력하기<br>
 <br>대회에 사용되는 저지 페이지 구축 시도하기
-]]></description><link>2024-하계-모각코\surim\모각표-목표.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각표 목표.md</guid><pubDate>Tue, 09 Jul 2024 09:23:44 GMT</pubDate></item><item><title><![CDATA[surim]]></title><description><![CDATA[ 
+]]></description><link>2024-하계-모각코\surim\모각코-목표.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 목표.md</guid><pubDate>Tue, 09 Jul 2024 09:23:44 GMT</pubDate></item><item><title><![CDATA[모각코 1차시]]></title><description><![CDATA[ 
+ ]]></description><link>2024-하계-모각코\surim\모각코-1차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 1차시.md</guid><pubDate>Tue, 09 Jul 2024 12:16:44 GMT</pubDate></item><item><title><![CDATA[surim]]></title><description><![CDATA[ 
  ]]></description><link>2024-하계-모각코\surim\surim.html</link><guid isPermaLink="false">2024 하계 모각코/surim/surim.md</guid><pubDate>Tue, 09 Jul 2024 13:49:53 GMT</pubDate></item><item><title><![CDATA[2024 하계 모각코]]></title><description><![CDATA[ 
  ]]></description><link>2024-하계-모각코\2024-하계-모각코.html</link><guid isPermaLink="false">2024 하계 모각코/2024 하계 모각코.md</guid><pubDate>Tue, 09 Jul 2024 13:50:42 GMT</pubDate></item><item><title><![CDATA[팀 소개]]></title><description><![CDATA[ 
  <br><br><br>
