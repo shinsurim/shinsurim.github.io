@@ -45,10 +45,10 @@
     "//모각코",
     "/",
     "//res",
-    "//docs",
     "//docs/docs/lib",
     "//docs/docs/lib/docs/lib/media",
-    "//docs/docs/모각코"
+    "//docs/docs/모각코",
+    "//2024 하계 모각코"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
