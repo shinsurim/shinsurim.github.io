@@ -1,1 +1,1 @@
-# shinsurim.github.io
+# Obsidian template for using github.io
