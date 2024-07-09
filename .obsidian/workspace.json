@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4a53a2dcc76747b9",
+        "id": "c350dd8a61f0c565",
         "type": "tabs",
         "children": [
           {
-            "id": "e85638fcd2d3f4e4",
+            "id": "fbe9191e14822f6d",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "docs"
+                "file": "모각코/모각코 1차시.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "모각코/모각코 1차시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "모각코/모각코 1차시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "모각코/모각코 1차시.md"
+              }
             }
           }
         ],
@@ -153,9 +159,11 @@
       "obsidian-rich-links:Rich Links": false
     }
   },
-  "active": "e85638fcd2d3f4e4",
+  "active": "fbe9191e14822f6d",
   "lastOpenFiles": [
     "모각코/모각코 1차시.md",
+    "모각코/모각표 목표!.md",
+    "docs/lib/media/KakaoTalk_20240704_190309775.png",
     "README.md",
     "index.md",
     "KakaoTalk_20240704_190309775.png",
@@ -165,7 +173,6 @@
     "무제 파일.md",
     "test.md",
     "docs/lib/styles/other-plugins.css",
-    "모각코/모각표 목표!.md",
     "모각코/모각코.md",
     "모각코/모각표 목표.md",
     "모각코",
