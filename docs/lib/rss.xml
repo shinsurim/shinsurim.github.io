@@ -1,5 +1,43 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Blog</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 09 Jul 2024 14:04:14 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 09 Jul 2024 14:04:13 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[모각코 목표]]></title><description><![CDATA[ 
- <br> 다이브 메인 페이지 수정 시도하기<br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Blog</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 10 Jul 2024 10:10:57 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 10 Jul 2024 10:10:56 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[모각코 1차시]]></title><description><![CDATA[ 
+ <br>목표<br>
+<br>다이브(인공지능학과 동아리) 기획부가 하는 일을 배우기
+<br>내가 담당할 부분 정하기
+<br>결과 <br>
+<br>
+다이브 메인 페이지 수정하기
+
+<br>기존 방식(절차형 프로그래밍) 이해하고 수정하기
+<br>내년 동아리 페이지 구축을 위해 선언형 프로그래밍 배우기
+
+
+<br>
+다이브 온라인 저지 페이지 구축 노력하기
+
+<br>다이브만의 채점 사이트 만들기
+
+
+]]></description><link>2024-하계-모각코\surim\모각코-1차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 1차시.md</guid><pubDate>Wed, 10 Jul 2024 10:09:41 GMT</pubDate></item><item><title><![CDATA[모각코 목표]]></title><description><![CDATA[ 
+ <br>
+<br>
+다이브 메인 페이지 수정하기
+
+<br>기존 방식(절차형 프로그래밍) 이해하고 수정하기
+<br>내년 동아리 페이지 구축을 위해 선언형 프로그래밍 배우기
+
+
+<br>
+다이브 온라인 저지 페이지 구축 노력하기
+
+<br>다이브만의 채점 사이트 만들기
+
+
+]]></description><link>2024-하계-모각코\surim\모각코-목표.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 목표.md</guid><pubDate>Wed, 10 Jul 2024 10:09:52 GMT</pubDate></item><item><title><![CDATA[팀 소개]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>신수림(팀장) - <a class="internal-link" data-href="/2024-하계-모각코/surim/모각코-목표.html" href="\2024-하계-모각코\surim\모각코-목표.html" target="_self" rel="noopener">개인 목표</a>
+<br>권민서 - <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">개인 블로그</a>
+<br>박연진 - <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">개인 블로그</a>
+<br>최준섭 - [개인 목표](<a data-tooltip-position="top" aria-label="https://elated-athlete-c86.notion.site/bb2f5dc1e5d34b619e915be60c82b0ef" rel="noopener" class="external-link" href="https://elated-athlete-c86.notion.site/bb2f5dc1e5d34b619e915be60c82b0ef" target="_blank">최준섭의 모각코 개인 블로그 (notion.site)</a>)
+<br><br>다이브 메인 페이지 수정 시도하기<br>
 <br>페이지 코드 이해하기
 <br> 다이브 대회 소개 페이지 제작 배우고 프로그램 제작 시작하기<br>
 <br>리더보드 도전하기
@@ -8,23 +46,16 @@
 <br>주피터 웹 화면 관련 설정
 <br>다이브 온라인 저지 페이지 구축 노력하기<br>
 <br>대회에 사용되는 저지 페이지 구축 시도하기
-]]></description><link>2024-하계-모각코\surim\모각코-목표.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 목표.md</guid><pubDate>Tue, 09 Jul 2024 09:23:44 GMT</pubDate></item><item><title><![CDATA[모각코 1차시]]></title><description><![CDATA[ 
- ]]></description><link>2024-하계-모각코\surim\모각코-1차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 1차시.md</guid><pubDate>Tue, 09 Jul 2024 12:16:44 GMT</pubDate></item><item><title><![CDATA[surim]]></title><description><![CDATA[ 
- ]]></description><link>2024-하계-모각코\surim\surim.html</link><guid isPermaLink="false">2024 하계 모각코/surim/surim.md</guid><pubDate>Tue, 09 Jul 2024 13:49:53 GMT</pubDate></item><item><title><![CDATA[2024 하계 모각코]]></title><description><![CDATA[ 
- ]]></description><link>2024-하계-모각코\2024-하계-모각코.html</link><guid isPermaLink="false">2024 하계 모각코/2024 하계 모각코.md</guid><pubDate>Tue, 09 Jul 2024 13:50:42 GMT</pubDate></item><item><title><![CDATA[팀 소개]]></title><description><![CDATA[ 
- <br><br><br>
-<br>신수림(팀장) - <a class="internal-link" data-href="/2024-하계-모각코/surim/모각코-목표.html" href="\2024-하계-모각코\surim\모각코-목표.html" target="_self" rel="noopener">개인 목표</a>
-<br>권민서 - <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">개인 블로그</a>
-<br>박연진 - <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">개인 블로그</a>
-<br>최준섭 - <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">개인 블로그</a>
-<br><br>
-<br>전체 계획: ?????
 <br><br><br><br>
 <br>신수림(팀장) - <a class="internal-link" data-href="/2024-하계-모각코/surim/모각코-1차시.html" href="\2024-하계-모각코\surim\모각코-1차시.html" target="_self" rel="noopener">1주차 활동</a>
 <br>권민서 - <a data-tooltip-position="top" aria-label="" rel="noopener" class="external-link" href="" target="_blank">1주차 활동</a>
+<br>박연진
+<br>최준섭 - [1주차 활동](<a data-tooltip-position="top" aria-label="https://elated-athlete-c86.notion.site/1-b2adcf15009a4c23becda573dbc6c85a" rel="noopener" class="external-link" href="https://elated-athlete-c86.notion.site/1-b2adcf15009a4c23becda573dbc6c85a" target="_blank">1주차 (notion.site)</a>)
 <br><br>
 <br>다이브(인공지능학과 동아리) 기획부의 역할에 대한 이해
 <br>기획부를 운영하기 위해 배우고 할 일 구체화
 <br><br>
 <br>홈페이지(다이브 메인 페이지, 대회 소개 페이지)를 기존 방식(HTML, css)와 새로운 방식(선언형) 둘 다 배우기로 결정
-<br><img alt="week1.png" src="lib\media\week1.png"><br>]]></description><link>2024-하계-모각코\team-코딩쨩-blog.html</link><guid isPermaLink="false">2024 하계 모각코/Team 코딩쨩 Blog.md</guid><pubDate>Tue, 09 Jul 2024 13:54:08 GMT</pubDate><enclosure url="lib\media\week1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\week1.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+<br><img alt="week1.png" src="lib\media\week1.png"><br>]]></description><link>2024-하계-모각코\team-코딩쨩-blog.html</link><guid isPermaLink="false">2024 하계 모각코/Team 코딩쨩 Blog.md</guid><pubDate>Wed, 10 Jul 2024 10:10:45 GMT</pubDate><enclosure url="lib\media\week1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\week1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[surim]]></title><description><![CDATA[ 
+ ]]></description><link>2024-하계-모각코\surim\surim.html</link><guid isPermaLink="false">2024 하계 모각코/surim/surim.md</guid><pubDate>Tue, 09 Jul 2024 13:49:53 GMT</pubDate></item><item><title><![CDATA[2024 하계 모각코]]></title><description><![CDATA[ 
+ ]]></description><link>2024-하계-모각코\2024-하계-모각코.html</link><guid isPermaLink="false">2024 하계 모각코/2024 하계 모각코.md</guid><pubDate>Tue, 09 Jul 2024 13:50:42 GMT</pubDate></item></channel></rss>

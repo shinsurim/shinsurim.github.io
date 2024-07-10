@@ -47,12 +47,10 @@
     "//res",
     "//docs/docs/lib",
     "//docs/docs/모각코",
-    "//docs/docs/2024-하계-모각코",
     "//2024 하계 모각코/2024 하계 모각코/surim",
-    "//docs",
     "//2024 하계 모각코",
-    "//docs/docs/2024-하계-모각코/docs/2024-하계-모각코/surim",
-    "//docs/docs/lib/docs/lib/html"
+    "//docs/docs/lib/docs/lib/html",
+    "//docs/docs/2024-하계-모각코"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
