@@ -1,9 +1,9 @@
 # 팀 소개
 ## 멤버 소개
-- 신수림(팀장) - [개인 목표](/2024-하계-모각코/surim/모각코-목표.html)
+- 신수림(팀장) - [개인 블로그](/2024-하계-모각코/surim/모각코-목표.html)
 - 권민서 - [개인 블로그]()
 - 박연진 - [개인 블로그]()
-- 최준섭 - [개인 목표]([최준섭의 모각코 개인 블로그 (notion.site)](https://elated-athlete-c86.notion.site/bb2f5dc1e5d34b619e915be60c82b0ef))
+- 최준섭 - [개인 블로그](https://elated-athlete-c86.notion.site/bb2f5dc1e5d34b619e915be60c82b0ef))
 
 # 팀 계획
 다이브 메인 페이지 수정 시도하기
@@ -28,7 +28,7 @@
 - 신수림(팀장) - [1주차 활동](/2024-하계-모각코/surim/모각코-1차시.html)
 - 권민서 - [1주차 활동]()
 - 박연진
-- 최준섭 - [1주차 활동]([1주차 (notion.site)](https://elated-athlete-c86.notion.site/1-b2adcf15009a4c23becda573dbc6c85a))
+- 최준섭 - [1주차 활동](https://elated-athlete-c86.notion.site/1-b2adcf15009a4c23becda573dbc6c85a)
 
 ### 오늘의 목표
 1. 다이브(인공지능학과 동아리) 기획부의 역할에 대한 이해
