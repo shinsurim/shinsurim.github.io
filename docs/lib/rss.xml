@@ -1,23 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Blog</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 18 Jul 2024 12:27:51 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 18 Jul 2024 12:27:51 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[모각코 2차시]]></title><description><![CDATA[ 
- <br><br>
-<br>사전에 미리 아이콘 넣는 법을 찾아보고 배운 뒤 yotube 아이콘 넣는 법 알려주기
-<br>Pull requests 찾아보고 알려주기
-<br><br>
-<br>전반적인 코드를 확인한 후 수정이 필요한 부분인 아이콘 관련 코드를 찾음
-<br>기존에 짜여진 코드를 보며 아이콘을 넣을 때 무엇이 필요한 지 확인함
-
-<br>아이콘을 클릭 했을 때 넘어갈 페이지의 링크
-<br>적절한 아이콘의 svg
-
-
-<br>위 내용을 참고하여 코드를 수정 후 확인함
-
-<br>footer.html의 코드를 수정 후 app.py를 실행하여 변경된 부분 확인
-
-
-<br>원하는 결과가 나온 뒤 github desktop를 사용하여 github에 업로드함
-<br>수정된 사항을 동아리 선배가 볼 수 있도록 pull request함
-]]></description><link>2024-하계-모각코\surim\모각코-2차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 2차시.md</guid><pubDate>Thu, 18 Jul 2024 12:22:43 GMT</pubDate></item><item><title><![CDATA[팀 소개]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Blog</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 18 Jul 2024 12:29:32 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 18 Jul 2024 12:29:32 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[팀 소개]]></title><description><![CDATA[ 
  <br><br><br>
 <br>신수림(팀장) - <a class="internal-link" data-href="/2024-하계-모각코/surim/모각코-목표.html" href="\2024-하계-모각코\surim\모각코-목표.html" target="_self" rel="noopener">개인 블로그</a>
 <br>권민서 - <a data-tooltip-position="top" aria-label="https://www.notion.so/2024-9ee18866d44c4c568b94c4bd80478da3https://www.notion.so/2024-9ee18866d44c4c568b94c4bd80478da3" rel="noopener" class="external-link" href="https://www.notion.so/2024-9ee18866d44c4c568b94c4bd80478da3https://www.notion.so/2024-9ee18866d44c4c568b94c4bd80478da3" target="_blank">개인 블로그</a>
@@ -66,7 +47,26 @@
 <br>부서 별로 임원들 확인할 수 있도록 하기(예쁘게)
 
 
-<br><img alt="KakaoTalk_20240718_200325142.png" src="lib\media\kakaotalk_20240718_200325142.png"><br>]]></description><link>2024-하계-모각코\team-코딩쨩-blog.html</link><guid isPermaLink="false">2024 하계 모각코/Team 코딩쨩 Blog.md</guid><pubDate>Thu, 18 Jul 2024 12:25:48 GMT</pubDate><enclosure url="lib\media\week1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\week1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[모각코 1차시]]></title><description><![CDATA[ 
+<br><img alt="KakaoTalk_20240718_200325142.png" src="lib\media\kakaotalk_20240718_200325142.png"><br>]]></description><link>2024-하계-모각코\team-코딩쨩-blog.html</link><guid isPermaLink="false">2024 하계 모각코/Team 코딩쨩 Blog.md</guid><pubDate>Thu, 18 Jul 2024 12:29:22 GMT</pubDate><enclosure url="lib\media\week1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\week1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[모각코 2차시]]></title><description><![CDATA[ 
+ <br><br>
+<br>사전에 미리 아이콘 넣는 법을 찾아보고 배운 뒤 yotube 아이콘 넣는 법 알려주기
+<br>Pull requests 찾아보고 알려주기
+<br><br>
+<br>전반적인 코드를 확인한 후 수정이 필요한 부분인 아이콘 관련 코드를 찾음
+<br>기존에 짜여진 코드를 보며 아이콘을 넣을 때 무엇이 필요한 지 확인함
+
+<br>아이콘을 클릭 했을 때 넘어갈 페이지의 링크
+<br>적절한 아이콘의 svg
+
+
+<br>위 내용을 참고하여 코드를 수정 후 확인함
+
+<br>footer.html의 코드를 수정 후 app.py를 실행하여 변경된 부분 확인
+
+
+<br>원하는 결과가 나온 뒤 github desktop를 사용하여 github에 업로드함
+<br>수정된 사항을 동아리 선배가 볼 수 있도록 pull request함
+]]></description><link>2024-하계-모각코\surim\모각코-2차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 2차시.md</guid><pubDate>Thu, 18 Jul 2024 12:22:43 GMT</pubDate></item><item><title><![CDATA[모각코 1차시]]></title><description><![CDATA[ 
  <br><br>
 <br>다이브(인공지능학과 동아리) 기획부가 하는 일을 배우기
 <br>내가 담당할 부분 정하기
