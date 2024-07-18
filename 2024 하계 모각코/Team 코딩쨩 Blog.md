@@ -2,7 +2,7 @@
 ## 멤버 소개
 - 신수림(팀장) - [개인 블로그](/2024-하계-모각코/surim/모각코-목표.html)
 - 권민서 - [개인 블로그](https://www.notion.so/2024-9ee18866d44c4c568b94c4bd80478da3https://www.notion.so/2024-9ee18866d44c4c568b94c4bd80478da3)
-- 박연진 -
+- 박연진 
 - 최준섭 - [개인 블로그](https://elated-athlete-c86.notion.site/bb2f5dc1e5d34b619e915be60c82b0ef)
 
 # 팀 계획
@@ -46,10 +46,9 @@
 - 신수림(팀장) - [2차시 활동](/2024-하계-모각코/surim/모각코-2차시.html)
 - 권민서 - [2차시 활동](https://www.notion.so/7-18-a21f91ff24e14b80933eeba2a367e0d6)
 - 박연진
-- 최준섭 - 
+- 최준섭 
 
 ### 오늘의 목표
-
 1. 다이브 gitbub clone 하기
 2. 다이브 메인 페이지 소개에 Youtube 아이콘 추가하기
 3. 다이브 gitbub Fork 후 Pull requests 하는 법 배우기
