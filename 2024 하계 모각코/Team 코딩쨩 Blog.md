@@ -2,7 +2,7 @@
 ## 멤버 소개
 - 신수림(팀장) - [개인 블로그](/2024-하계-모각코/surim/모각코-목표.html)
 - 권민서 - [개인 블로그](https://www.notion.so/2024-9ee18866d44c4c568b94c4bd80478da3https://www.notion.so/2024-9ee18866d44c4c568b94c4bd80478da3)
-- 박연진 
+- 박연진  - [개인 블로그](https://holy-quotation-47e.notion.site/8f11cb3f28b44ea487c2227fa1559bf8?pvs=4)
 - 최준섭 - [개인 블로그](https://elated-athlete-c86.notion.site/bb2f5dc1e5d34b619e915be60c82b0ef)
 
 # 팀 계획
@@ -27,7 +27,7 @@
 ### 참석자
 - 신수림(팀장) - [1차시 활동](/2024-하계-모각코/surim/모각코-1차시.html)
 - 권민서 - [1차시 활동](https://www.notion.so/7-4-0b627da5561543aeb2309a74cb4af063)
-- 박연진
+- 박연진 - [1차시 활동](https://holy-quotation-47e.notion.site/1-c233468506b14a418c840032f9eff65d?pvs=4)
 - 최준섭 - [1차시 활동](https://elated-athlete-c86.notion.site/1-b2adcf15009a4c23becda573dbc6c85a)
 
 ### 오늘의 목표
@@ -47,8 +47,8 @@
 ### 참석자
 - 신수림(팀장) - [2차시 활동](/2024-하계-모각코/surim/모각코-2차시.html)
 - 권민서 - [2차시 활동](https://www.notion.so/7-18-a21f91ff24e14b80933eeba2a367e0d6)
-- 박연진
-- 최준섭 
+- 박연진 - [2차시 활동](https://holy-quotation-47e.notion.site/2-f8c4196454d743fcaba7baefe717c6cc?pvs=4)
+- 최준섭 - [2차시 활동](https://elated-athlete-c86.notion.site/2-fe08fff717c949a7ae8fefbdf9b69ffb)
 
 ### 오늘의 목표
 1. 다이브 gitbub clone 하기
@@ -65,17 +65,26 @@
 	1. 연도 별로 활동, 사진 정리하기
 	2. 부서 별로 임원들 확인할 수 있도록 하기(예쁘게)
 
-![[KakaoTalk_20240718_200325142.png]]
+![[2.png]]
 
 
 
 
 
+## 3차시 활동
+### 참석자
+- 신수림(팀장) - [3차시 활동](/2024-하계-모각코/surim/모각코-3차시.html)
+- 권민서 - 
+- 박연진 - [3차시 활동](https://holy-quotation-47e.notion.site/3-5e2caf060a374992a84bd30c13a8c0d1?pvs=4)
+- 최준섭 - [3차시 활동](https://elated-athlete-c86.notion.site/3-49c0d6125467412f9936802fe0c4c6dd)
+
+### 오늘의 목표
+1. 동아리 운영을 위해 각자가 담당한 부분 지식 쌓기
+2. 동아리 프로젝트 시작 전 기초적인 코딩과 인공지능에 대해 공부하기
 
 
-
-
-
+### 오늘의 결과
+1. ![[스크린샷 2024-07-26 181251.png]] 초반에 모둠원들과 같이 폴더들을 열어보고 동아리 페이지와 비교하며 생각함
 
 
 
