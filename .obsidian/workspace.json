@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 312.5
   },
   "right": {
     "id": "b8b53b513e17a2f3",
@@ -155,6 +155,7 @@
   },
   "active": "9223adb7ca834c1d",
   "lastOpenFiles": [
+    "docs/2024-하계-모각코/Untitled.md",
     "2024 하계 모각코/Team 코딩쨩 Blog.md",
     "2024 하계 모각코/surim/모각코 6차시.md",
     "2024 하계 모각코/surim/모각코 5차시.md",
