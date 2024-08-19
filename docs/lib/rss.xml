@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Blog</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 19 Aug 2024 08:10:07 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 19 Aug 2024 08:10:06 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[모각코 2차시]]></title><description><![CDATA[ 
+=======
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Blog</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 19 Aug 2024 06:29:43 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 19 Aug 2024 06:29:43 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[모각코 2차시]]></title><description><![CDATA[ 
+>>>>>>> parent of 7e295ba (123)
  <br><br>
 <br>사전에 미리 아이콘 넣는 법을 찾아보고 배운 뒤 yotube 아이콘 넣는 법 알려주기
 <br>Pull requests 찾아보고 알려주기
@@ -16,9 +20,54 @@
 
 
 <br>원하는 결과가 나온 뒤 github desktop를 사용하여 github에 업로드함
-<br>수정된 사항을 동아리 선배가 볼 수 있도록 pull request함<br>
-<img alt="3.png" src="lib\media\3.png">  <img alt="2주차개인" src="https://shinsurim.github.io//lib/media/3.png" referrerpolicy="no-referrer">
-]]></description><link>2024-하계-모각코\surim\모각코-2차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 2차시.md</guid><pubDate>Mon, 19 Aug 2024 06:47:42 GMT</pubDate><enclosure url="lib\media\3.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\3.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[모각코 4차시]]></title><description><![CDATA[ 
+<br>수정된 사항을 동아리 선배가 볼 수 있도록 pull request함<img alt="스크린샷 2024-08-19 134953.png" src="lib\media\스크린샷-2024-08-19-134953.png">
+]]></description><link>2024-하계-모각코\surim\모각코-2차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 2차시.md</guid><pubDate>Mon, 19 Aug 2024 04:50:24 GMT</pubDate><enclosure url="lib\media\스크린샷-2024-08-19-134953.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\스크린샷-2024-08-19-134953.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[모각코 3차시]]></title><description><![CDATA[ 
+ <br><br>
+<br>백준  문제 풀기
+<br>다이브 페이지 수정할 부분 공부하기 1
+
+<br>다이브 메인 페이지에 사진 넣는 법 공부하기
+
+
+<br><br>
+<br>
+컴퓨터 포맷 후 처음 코딩을 하는데 경로 설정이 제대로 되어 있지 않아 경로 설정 후 코딩 시작
+
+<br>3003번
+
+<br>오랜만에 문제를 풀어서 시간이 오래 걸림
+<br>처음에 하나하나 빼는 식으로 풀었는데 더 단순한 방식이 있을 것 같아서 다른 사람의 풀이를 보니 더 깔끔한 코드가 있었음
+<br>그 코드를 이해하고 다시 한 번 풀어봄
+
+
+
+
+<br>
+사진이 들어가는 패턴을 알아냄
+
+<br>&lt;ul class="programs-filter" id="programs_filter" data-aos="fade-up" data-aos-delay="100"&gt;
+	&lt;li data-filter="*" class="filter-active"&gt;모든 사진&lt;/li&gt;
+	&lt;li data-filter=".filter-study"&gt;Study&lt;/li&gt;
+	&lt;li data-filter=".filter-mentor"&gt;Mentoring&lt;/li&gt;
+	&lt;li data-filter=".filter-fellow"&gt;Fellowship&lt;/li&gt;
+ &lt;/ul&gt;
+
+
+&lt;div class="col-lg-3 col-md-4 col-sm-6 programs-item filter-study"&gt;
+	&lt;div class="programs-wrap"&gt;
+		&lt;img src="/dist/res/image/index/programs/lecture.png" class="img-fluid" alt=""&gt;
+		&lt;div class="programs-info"&gt;
+			 &lt;h4&gt;코딩 교육&lt;/h4&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+---
+위 코드에서 &lt;li data-filter=".filter-fellow"&gt;로 특정 이름의 필터를 지정한 뒤 버튼 이름을 만듦
+
+사진을 넣을 때 위에 설정해두었던 필터를 넣으면 만들어놓은 특정 카테고리로 분류됨
+
+Copy]]></description><link>2024-하계-모각코\surim\모각코-3차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 3차시.md</guid><pubDate>Sun, 11 Aug 2024 07:34:57 GMT</pubDate></item><item><title><![CDATA[모각코 4차시]]></title><description><![CDATA[ 
  <br><br>
 <br>동아리 프로젝트(자율주행자동차)를 원활하게 하기 위한 기초 지식 쌓기
 <br>컴퓨터 비전에 대해 공부하기 
@@ -42,7 +91,7 @@
 
 
 
-]]></description><link>2024-하계-모각코\surim\모각코-4차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 4차시.md</guid><pubDate>Mon, 19 Aug 2024 06:47:12 GMT</pubDate></item><item><title><![CDATA[모각코 5차시]]></title><description><![CDATA[ 
+<br><img alt="Pasted image 20240819135137.png" src="lib\media\pasted-image-20240819135137.png">]]></description><link>2024-하계-모각코\surim\모각코-4차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 4차시.md</guid><pubDate>Mon, 19 Aug 2024 04:51:39 GMT</pubDate><enclosure url="lib\media\pasted-image-20240819135137.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240819135137.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[모각코 5차시]]></title><description><![CDATA[ 
  <br><br>
 <br>4차시 내용의 심화된 내용으로 컴퓨터 비전 공부하기
 <br>동아리 프로젝트가 시작될 때 바로 참여할 수 있도록 실력 키기
@@ -77,7 +126,7 @@
 <br>SSD (Single Shot Multibox Detector): YOLO와 유사하게 한 번의 분석으로 객체 탐지를 수행하지만, 다양한 크기의 객체에 대해 더 나은 성능을 지님.
 
 
-]]></description><link>2024-하계-모각코\surim\모각코-5차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 5차시.md</guid><pubDate>Mon, 19 Aug 2024 06:47:20 GMT</pubDate></item><item><title><![CDATA[모각코 6차시]]></title><description><![CDATA[ 
+<br><img alt="Pasted image 20240819135249.png" src="lib\media\pasted-image-20240819135249.png">]]></description><link>2024-하계-모각코\surim\모각코-5차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 5차시.md</guid><pubDate>Mon, 19 Aug 2024 04:52:55 GMT</pubDate><enclosure url="lib\media\pasted-image-20240819135249.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240819135249.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[모각코 6차시]]></title><description><![CDATA[ 
  <br><br>
 <br>강화학습 이론 공부하기
 <br>전반적인 강화학습에 대해 알아보기
@@ -97,13 +146,11 @@
 <br>에이전트는 더 높은 누적 보상을 얻기 위해 행동 방식을 조정하고 학습하게 됨
 
 
-<br>종류
-
-<br>모델 기반(Model-Based) 강화학습: 환경의 모델을 예측함. 이를 바탕으로 최적의 정책을 찾음.
-<br>모델 프리(Model-Free) 강화학습: 환경에 대한 명확한 모델 없이 시뮬레이션을 통해 최적 정책을 찾아 냄. 대표적인 알고리즘으로는 Q-learning, SARSA 등이 있음.
-
-
-]]></description><link>2024-하계-모각코\surim\모각코-6차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 6차시.md</guid><pubDate>Mon, 19 Aug 2024 06:47:27 GMT</pubDate></item><item><title><![CDATA[팀 소개]]></title><description><![CDATA[ 
+<br>종류<br>
+1. 모델 기반(Model-Based) 강화학습: 환경의 모델을 예측함. 이를 바탕으로 최적의 정책을 찾음.<br>
+2. 모델 프리(Model-Free) 강화학습: 환경에 대한 명확한 모델 없이 시뮬레이션을 통해 최적 정책을 찾아 냄. 대표적인 알고리즘으로는 Q-learning, SARSA 등이 있음.<br>
+<img alt="Pasted image 20240819135425.jpg" src="lib\media\pasted-image-20240819135425.jpg">
+]]></description><link>2024-하계-모각코\surim\모각코-6차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 6차시.md</guid><pubDate>Mon, 19 Aug 2024 04:54:28 GMT</pubDate><enclosure url="lib\media\pasted-image-20240819135425.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20240819135425.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[팀 소개]]></title><description><![CDATA[ 
  <br><br><br>
 <br>신수림(팀장) - <a class="internal-link" data-href="/2024-하계-모각코/surim/모각코-목표.html" href="\2024-하계-모각코\surim\모각코-목표.html" target="_self" rel="noopener">개인 블로그</a>
 <br>권민서 - <a data-tooltip-position="top" aria-label="https://leather-client-54f.notion.site/2024-72e7c1663f0d43888e93d313c9c5c2b4?pvs=4" rel="noopener" class="external-link" href="https://leather-client-54f.notion.site/2024-72e7c1663f0d43888e93d313c9c5c2b4?pvs=4" target="_blank">개인 블로그</a>
@@ -129,7 +176,7 @@
 <br><br>
 <br>홈페이지(다이브 메인 페이지, 대회 소개 페이지)를 기존 방식(HTML, css)와 새로운 방식(선언형) 둘 다 배우기로 결정
 <br><img alt="week1.png" src="lib\media\week1.png"><br><br><br>
-<br>신수림(팀장) - <a class="internal-link" data-href="/2024-하계-모각코/surim/모각코-2차시.html" href="\2024-하계-모각코\surim\모각코-2차시.html" target="_self" rel="noopener">2차시 활동</a>
+<br>신수림(팀장) - <a class="internal-link" data-href="/2024-하계-모각코/surim/모각코-2차시.html" href="2024-하계-모각코\surim\모각코-2차시.html.html" target="_self" rel="noopener">2차시 활동</a>
 <br>권민서 - <a data-tooltip-position="top" aria-label="https://leather-client-54f.notion.site/7-18-2-e464b04d553b4ab1a0a81e7f0cd9e2c4" rel="noopener" class="external-link" href="https://leather-client-54f.notion.site/7-18-2-e464b04d553b4ab1a0a81e7f0cd9e2c4" target="_blank">2차시 활동</a>
 <br>박연진 - <a data-tooltip-position="top" aria-label="https://holy-quotation-47e.notion.site/2-f8c4196454d743fcaba7baefe717c6cc?pvs=4" rel="noopener" class="external-link" href="https://holy-quotation-47e.notion.site/2-f8c4196454d743fcaba7baefe717c6cc?pvs=4" target="_blank">2차시 활동</a>
 <br>최준섭 - <a data-tooltip-position="top" aria-label="https://elated-athlete-c86.notion.site/2-fe08fff717c949a7ae8fefbdf9b69ffb" rel="noopener" class="external-link" href="https://elated-athlete-c86.notion.site/2-fe08fff717c949a7ae8fefbdf9b69ffb" target="_blank">2차시 활동</a>
@@ -161,7 +208,7 @@
 <br>동아리 운영을 위해 각자가 담당한 부분 지식 쌓기
 <br>동아리 프로젝트 시작 전 기초적인 코딩과 인공지능에 대해 공부하기
 <br><br>
-<br><img alt="33.png" src="lib\media\33.png"> 초반에 모둠원들과 같이 폴더들을 열어보고 동아리 페이지와 비교하며 생각함
+<br><img alt="스크린샷 2024-07-26 181251.png" src="lib\media\스크린샷-2024-07-26-181251.png"> 초반에 모둠원들과 같이 폴더들을 열어보고 동아리 페이지와 비교하며 생각함
 <br><br><br>
 <br>신수림(팀장) - <a class="internal-link" data-href="/2024-하계-모각코/surim/모각코-4차시.html" href="\2024-하계-모각코\surim\모각코-4차시.html" target="_self" rel="noopener">4차시 활동</a>
 <br>권민서 - <a data-tooltip-position="top" aria-label="https://leather-client-54f.notion.site/7-30-4-03911a134bc74c9f899cb1a09235c2b1" rel="noopener" class="external-link" href="https://leather-client-54f.notion.site/7-30-4-03911a134bc74c9f899cb1a09235c2b1" target="_blank">4차시 활동</a>
@@ -189,7 +236,7 @@
 <br>CNN의 깊이가 깊어질수록 그라디언트 소실 및 폭발 문제가 발생할 수 있음  
 <br>이를 해결하기 위해 ResNet 구조를 사용함  
 <br>ResNet은 블록 단위로 이전 값을 더하는 스킵 연결 방식을 통해 네트워크 깊어져도 성능을 유지함
-<br><img alt="44.png" src="lib\media\44.png"><br><br><br>
+<br><img alt="스크린샷 2024-08-19 143236 1.png" src="lib\media\스크린샷-2024-08-19-143236-1.png"><br><br><br>
 <br>신수림(팀장) - <a class="internal-link" data-href="/2024-하계-모각코/surim/모각코-5차시.html" href="\2024-하계-모각코\surim\모각코-5차시.html" target="_self" rel="noopener">5차시 활동</a>
 <br>권민서 - <a data-tooltip-position="top" aria-label="https://leather-client-54f.notion.site/8-3-5-ad4d04c6fadf4fdc94e3333c73202b68" rel="noopener" class="external-link" href="https://leather-client-54f.notion.site/8-3-5-ad4d04c6fadf4fdc94e3333c73202b68" target="_blank">5차시 활동</a>
 <br>박연진 - <a data-tooltip-position="top" aria-label="https://holy-quotation-47e.notion.site/5-02f5c1ee62da4fe5831ccce3764ca82d" rel="noopener" class="external-link" href="https://holy-quotation-47e.notion.site/5-02f5c1ee62da4fe5831ccce3764ca82d" target="_blank">5차시 활동</a>
@@ -220,9 +267,9 @@
 <br>모델 설계  
 <br>
 <br>GAN을 채택하여 모델을 설계할 예정임<br>
-<img alt="55.png" src="lib\media\55.png">
+<img alt="스크린샷 2024-08-19 143445.png" src="lib\media\스크린샷-2024-08-19-143445.png">
 <br><br><br>
-<br>신수림(팀장) - <a class="internal-link" data-href="/2024-하계-모각코/surim/모각코-6차시.html" href="\2024-하계-모각코\surim\모각코-6차시.html" target="_self" rel="noopener">6차시 활동</a>
+<br>신수림(팀장) - <a class="internal-link" data-href="/2024-하계-모각코/surim/모각코-6차시.html" href="2024-하계-모각코\surim\모각코-6차시.html.html" target="_self" rel="noopener">6차시 활동</a>
 <br>권민서 - <a data-tooltip-position="top" aria-label="https://leather-client-54f.notion.site/8-10-6-82a5bbc7e4d14f9ab8b8b3cbf044bcc8" rel="noopener" class="external-link" href="https://leather-client-54f.notion.site/8-10-6-82a5bbc7e4d14f9ab8b8b3cbf044bcc8" target="_blank">6차시 활동</a>
 <br>박연진 - <a data-tooltip-position="top" aria-label="https://holy-quotation-47e.notion.site/6-35e287a175c340f29586110631fc0d1f" rel="noopener" class="external-link" href="https://holy-quotation-47e.notion.site/6-35e287a175c340f29586110631fc0d1f" target="_blank">6차시 활동</a>
 <br>최준섭 - <a data-tooltip-position="top" aria-label="https://elated-athlete-c86.notion.site/6-221fa763834b4e6a90224b6b6aa37217" rel="noopener" class="external-link" href="https://elated-athlete-c86.notion.site/6-221fa763834b4e6a90224b6b6aa37217" target="_blank">6차시 활동</a>
@@ -271,54 +318,8 @@
 <br>
 <br>모델 기반: 환경의 모델을 예측하여 최적 정책 찾기
 <br>모델 프리: 환경 모델 없이 시뮬레이션으로 최적 정책 찾기 (예: Q-learning, SARSA)<br>
-<img alt="66.png" src="lib\media\66.png">
-<br><br>신수림:  목표를 세우고 그 목표에 대해 하나부터 열까지 스스로 찾아보고, 선배에게 물어보거나, 팀원들과 이야기하며 서로 알려주고 부족한 부분을 채워갈 수 있었던 시간이었다. 능동적으로 하는 것이 익숙하지 않아 처음에는 힘들었지만 이번 기회를 통해 능동적으로 하는 법을 얻을 수 있었던 기회였다. <br>권민서: 모각코 활동을 통해 집중력을 유지하며 인공지능을 꾸준히 공부할 수 있었다. 또한 함께 공부했던 친구들 덕분에 더 열심히 공부를 할 수 있었다.<br>박연진: 다같이 코딩하면서 각자 까먹었던 코드나 개념들을 서로 보완해줄 수 있어서 코딩실력향상에 많은 도움이 됐다. 그리고 경험이 많은 선배와 함께 작업하면서 배우는 속도가 빨라지고 다른 사람들의 코딩 스타일도 참고하여 여러방면에서 배울 점이 많아진 점에서 유익하고 좋았다.<br>최준섭: 이번에 기회되서 다이브 기획부 인턴을 맡게 되었습니다. 각종 대회 준비와 홈페이지를 수정하는 작업등경험해보지 못한 일들을 이번에 팀원과 같이 활동하며 배우게 되어서 뜻 깊었던 시간이었습니다.특히 전공 수업에서 다루지 않지만 관련 분야에서 꼭 필요한 것들을 이번에 처음 접하게 되어서 더욱 가치있는 시간이었습니다.]]></description><link>2024-하계-모각코\team-코딩쨩-blog.html</link><guid isPermaLink="false">2024 하계 모각코/Team 코딩쨩 Blog.md</guid><pubDate>Mon, 19 Aug 2024 06:54:03 GMT</pubDate><enclosure url="lib\media\week1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\week1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[모각코 3차시]]></title><description><![CDATA[ 
- <br><br>
-<br>백준  문제 풀기
-<br>다이브 페이지 수정할 부분 공부하기 1
-
-<br>다이브 메인 페이지에 사진 넣는 법 공부하기
-
-
-<br><br>
-<br>
-컴퓨터 포맷 후 처음 코딩을 하는데 경로 설정이 제대로 되어 있지 않아 경로 설정 후 코딩 시작
-
-<br>3003번
-
-<br>오랜만에 문제를 풀어서 시간이 오래 걸림
-<br>처음에 하나하나 빼는 식으로 풀었는데 더 단순한 방식이 있을 것 같아서 다른 사람의 풀이를 보니 더 깔끔한 코드가 있었음
-<br>그 코드를 이해하고 다시 한 번 풀어봄
-
-
-
-
-<br>
-사진이 들어가는 패턴을 알아냄
-
-<br>&lt;ul class="programs-filter" id="programs_filter" data-aos="fade-up" data-aos-delay="100"&gt;
-	&lt;li data-filter="*" class="filter-active"&gt;모든 사진&lt;/li&gt;
-	&lt;li data-filter=".filter-study"&gt;Study&lt;/li&gt;
-	&lt;li data-filter=".filter-mentor"&gt;Mentoring&lt;/li&gt;
-	&lt;li data-filter=".filter-fellow"&gt;Fellowship&lt;/li&gt;
- &lt;/ul&gt;
-
-
-&lt;div class="col-lg-3 col-md-4 col-sm-6 programs-item filter-study"&gt;
-	&lt;div class="programs-wrap"&gt;
-		&lt;img src="/dist/res/image/index/programs/lecture.png" class="img-fluid" alt=""&gt;
-		&lt;div class="programs-info"&gt;
-			 &lt;h4&gt;코딩 교육&lt;/h4&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
----
-위 코드에서 &lt;li data-filter=".filter-fellow"&gt;로 특정 이름의 필터를 지정한 뒤 버튼 이름을 만듦
-
-사진을 넣을 때 위에 설정해두었던 필터를 넣으면 만들어놓은 특정 카테고리로 분류됨
-
-Copy]]></description><link>2024-하계-모각코\surim\모각코-3차시.html</link><guid isPermaLink="false">2024 하계 모각코/surim/모각코 3차시.md</guid><pubDate>Sun, 11 Aug 2024 07:34:57 GMT</pubDate></item><item><title><![CDATA[모각코 1차시]]></title><description><![CDATA[ 
+<img alt="스크린샷 2024-08-19 143307 1.png" src="lib\media\스크린샷-2024-08-19-143307-1.png">
+<br><br>신수림:  목표를 세우고 그 목표에 대해 하나부터 열까지 스스로 찾아보고, 선배에게 물어보거나, 팀원들과 이야기하며 서로 알려주고 부족한 부분을 채워갈 수 있었던 시간이었다. 능동적으로 하는 것이 익숙하지 않아 처음에는 힘들었지만 이번 기회를 통해 능동적으로 하는 법을 얻을 수 있었던 기회였다. <br>권민서: 모각코 활동을 통해 집중력을 유지하며 인공지능을 꾸준히 공부할 수 있었다. 또한 함께 공부했던 친구들 덕분에 더 열심히 공부를 할 수 있었다.<br>박연진: 다같이 코딩하면서 각자 까먹었던 코드나 개념들을 서로 보완해줄 수 있어서 코딩실력향상에 많은 도움이 됐다. 그리고 경험이 많은 선배와 함께 작업하면서 배우는 속도가 빨라지고 다른 사람들의 코딩 스타일도 참고하여 여러방면에서 배울 점이 많아진 점에서 유익하고 좋았다.<br>최준섭: 이번에 기회되서 다이브 기획부 인턴을 맡게 되었습니다. 각종 대회 준비와 홈페이지를 수정하는 작업등경험해보지 못한 일들을 이번에 팀원과 같이 활동하며 배우게 되어서 뜻 깊었던 시간이었습니다.특히 전공 수업에서 다루지 않지만 관련 분야에서 꼭 필요한 것들을 이번에 처음 접하게 되어서 더욱 가치있는 시간이었습니다.]]></description><link>2024-하계-모각코\team-코딩쨩-blog.html</link><guid isPermaLink="false">2024 하계 모각코/Team 코딩쨩 Blog.md</guid><pubDate>Mon, 19 Aug 2024 05:59:06 GMT</pubDate><enclosure url="lib\media\week1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\week1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[모각코 1차시]]></title><description><![CDATA[ 
  <br><br>
 <br>다이브(인공지능학과 동아리) 기획부가 하는 일을 배우기
 <br>내가 담당할 부분 정하기

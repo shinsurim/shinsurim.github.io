@@ -50,12 +50,16 @@
     "//2024 하계 모각코",
     "//docs/docs/2024-하계-모각코/docs/2024-하계-모각코/surim",
     "/",
+<<<<<<< HEAD
     "//docs",
     "//docs/docs/2024-하계-모각코/docs/2024-하계-모각코/surim/docs/2024-하계-모각코/surim/모각코-1차시.html",
     "//docs/docs/2024-하계-모각코/docs/2024-하계-모각코/surim/docs/2024-하계-모각코/surim/모각코-2차시.html",
     "//docs/docs/2024-하계-모각코/docs/2024-하계-모각코/surim/docs/2024-하계-모각코/surim/모각코-3차시.html",
     "//docs/docs/2024-하계-모각코/docs/2024-하계-모각코/surim/docs/2024-하계-모각코/surim/모각코-4차시.html",
     "//docs/docs/2024-하계-모각코/docs/2024-하계-모각코/team-코딩쨩-blog.html",
+=======
+    "//Tags",
+>>>>>>> parent of 7e295ba (123)
     "//docs/docs/2024-하계-모각코"
   ],
   "expandFolderOnClick": true,
