@@ -11,9 +11,11 @@
             "id": "9223adb7ca834c1d",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "docs/2024-하계-모각코/surim/모각코-2차시.html"
+                "file": "2024 하계 모각코/Team 코딩쨩 Blog.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 200
   },
   "right": {
     "id": "b8b53b513e17a2f3",
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024 하계 모각코/Team 코딩쨩 Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024 하계 모각코/Team 코딩쨩 Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024 하계 모각코/Team 코딩쨩 Blog.md"
+              }
             }
           }
         ],
