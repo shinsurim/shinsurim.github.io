@@ -53,8 +53,8 @@
     "//docs/docs/lib/docs/lib/media",
     "//docs/docs/lib",
     "/",
-    "//Tags",
-    "//docs/docs/2024-하계-모각코"
+    "//docs/docs/2024-하계-모각코",
+    "//docs"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
