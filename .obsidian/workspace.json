@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024 하계 모각코/Team 코딩쨩 Blog.md",
+                "file": "2024 하계 모각코/surim/모각코 3차시.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-하계-모각코/surim/모각코-6차시.html.md",
+                "file": "2024 하계 모각코/surim/모각코 3차시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-하계-모각코/surim/모각코-6차시.html.md",
+                "file": "2024 하계 모각코/surim/모각코 3차시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-하계-모각코/surim/모각코-6차시.html.md"
+                "file": "2024 하계 모각코/surim/모각코 3차시.md"
               }
             }
           }
@@ -175,12 +175,8 @@
                 "id": "5fbee448d0a6910d",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2024-하계-모각코/surim/모각코-6차시.html.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -196,13 +192,14 @@
       }
     ]
   },
-  "active": "5fbee448d0a6910d",
+  "active": "9223adb7ca834c1d",
   "lastOpenFiles": [
     "2024 하계 모각코/Team 코딩쨩 Blog.md",
     "2024 하계 모각코/surim/모각코 6차시.md",
     "2024 하계 모각코/surim/모각코 5차시.md",
     "2024 하계 모각코/surim/모각코 4차시.md",
     "2024 하계 모각코/surim/모각코 2차시.md",
+    "2024 하계 모각코/surim/모각코 3차시.md",
     "스크린샷 2024-08-19 143307 1.png",
     "스크린샷 2024-08-19 143307.png",
     "스크린샷 2024-08-19 143445.png",
@@ -216,7 +213,6 @@
     "Pasted image 20240819135408.jpg",
     "Pasted image 20240819135249.png",
     "Pasted image 20240819135137.png",
-    "2024 하계 모각코/surim/모각코 3차시.md",
     "스크린샷 2024-08-19 134953.png",
     "2024 하계 모각코/surim/모각코 1차시.md",
     "2024 하계 모각코/Untitled.md",
