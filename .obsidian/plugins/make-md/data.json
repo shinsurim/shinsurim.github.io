@@ -40,7 +40,6 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Tags",
     "//이름 없는 보드",
     "//모각코",
     "//res",
@@ -48,12 +47,13 @@
     "//docs/docs/lib/docs/lib/html",
     "//2024-하계-모각코",
     "//2024-하계-모각코/2024-하계-모각코/surim",
-    "/",
     "//2024 하계 모각코/2024 하계 모각코/surim",
     "//2024 하계 모각코",
     "//docs/docs/2024-하계-모각코/docs/2024-하계-모각코/surim",
     "//docs/docs/lib/docs/lib/media",
-    "//docs/docs/lib"
+    "//docs/docs/lib",
+    "/",
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
